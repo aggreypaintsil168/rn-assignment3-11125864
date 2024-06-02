@@ -20,10 +20,9 @@ This application is designed to manage and track various tasks. It includes comp
      - A horizontal scroll view with various categories displayed as cards.
    - **File**: `Categories.js`
    - **Screenshot**:
-     ![Categories Component]()
+     ![Categories Component Screenshot](https://github.com/aggreypaintsil168/rn-assignment3-11125864/blob/main/Ipex/assets/Screenshot.png)
 
 2. **Header**
-
    - **Usage**: Displays a greeting message and the number of tasks for the day.
    - **Props**: None
    - **Structure**:
@@ -32,7 +31,7 @@ This application is designed to manage and track various tasks. It includes comp
      - An image (avatar) on the right.
    - **File**: `Header.js`
    - **Screenshot**:
-     ![Header Component]()
+     ![Header Component Screenshot](https://github.com/aggreypaintsil168/rn-assignment3-11125864/blob/main/Ipex/assets/Screenshot%20of%20App.png)
 
 3. **OngoingTask**
 
@@ -43,7 +42,7 @@ This application is designed to manage and track various tasks. It includes comp
      - A vertical list of ongoing tasks.
    - **File**: `OngoingTasks.js`
    - **Screenshot**:
-     ![Ongoing Task Component]()
+     ![Ongoing Task Component Screenshot](https://github.com/aggreypaintsil168/rn-assignment3-11125864/blob/main/Ipex/assets/App%20screenshot.png)
 
 
 
